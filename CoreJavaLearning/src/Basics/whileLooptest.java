@@ -16,6 +16,7 @@ public class whileLooptest {
 		}
 		System.out.println(j);
 		System.out.println(i);
-	}
+	
 
-}
+		
+}}
