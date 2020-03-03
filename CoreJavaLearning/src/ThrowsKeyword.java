@@ -18,9 +18,10 @@ public class ThrowsKeyword {
 	public void div() throws ArithmeticException
 	
 	try{
-	{
+	
 		int i =9/0;
-	}
+	
 
 }
 	catch(ArithmeticException e)
+}
