@@ -10,6 +10,7 @@ public class arrayListPgm {
 		al.add("Monisha");
 		al.add("Annu");
 		al.add("Kunju");
+	
 		
 		System.out.println("------CONTENTS IN ARRAYLIST----");
 		System.out.println(al);
